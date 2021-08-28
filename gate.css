@@ -1,0 +1,171 @@
+
+
+	.v1{
+	position:relative;
+	
+	}
+	.naav.fixed-top{
+	background-color:white;
+	 
+	}
+	
+	.navbar-brand{
+	margin-left:30px;
+	font-size:28px;
+	font-weight:bold;
+	 color: #b30000;
+	
+	 font-family: "Times New Roman", Times, serif;
+	}
+	
+	
+	.head{
+	margin-top:50px;
+	text-align:center;
+	color:  #b30000;
+	font-weight:bold;
+	font-family: "Times New Roman", Times, serif;
+	}
+	body{
+position:relative;
+background-color:white ;
+	}
+	.para{
+		margin-top:60px;
+		text-align:center;
+		font-size:23px;
+		font-weight:normal;
+		color:#333300;
+	 font-family: "Times New Roman", Times, serif;
+
+	}
+	.para1{
+		margin-top:40px;
+		text-align:center;
+		color:#996633;
+		 font-family: "Times New Roman", Times, serif;
+		font-size:20px;
+	}
+	.head1{
+	margin-top:10px;
+	text-align:center;
+	
+	color:  #b30000;
+	font-weight:bold;
+	 font-family: "Times New Roman", Times, serif;
+	}
+	.head2{
+	margin-top:0px;
+	text-align:center;
+	color:#cc6699;
+	margin-bottom:50px;
+	 font-family: "Times New Roman", Times, serif;
+	
+	}
+	.card-img-top{
+	width:150px;
+	margin:0 auto;
+	text-align:center;
+	
+	}
+	.card-title{
+		text-align:center;
+		color:  #b30000;
+	font-weight:bold;
+	 font-family: "Times New Roman", Times, serif;
+	}
+	.text{
+	font-weight:bold;
+	font-size:25px;
+	color:#ac3939;
+	text-align:center;
+	font-family: "Times New Roman", Times, serif;
+	}
+	.card-text{
+	color:#8B0000;
+	text-align:center;
+	font-size:18px;
+	font-family: "Times New Roman", Times, serif;
+	}
+	
+	.carousel-item{
+		width:100%;
+		height:450px;
+		
+	}
+	.x1.card{
+ border:none;
+ 
+ }
+ .x2.card-deck{
+ width:600px;
+ margin:0 auto;
+ }
+ .x3.card-img-top{
+	 width:100%;
+ height:50%;}
+ 
+ 
+ .card1.card{
+	 float:left;
+	 margin-left:10px;
+	height:450px;
+	background-color:#FFE4B5;
+	border:5px #8B0000 solid;
+	FONT-SIZE:18PX;
+}
+#contact{
+text-align:center;
+font-weight:normal;
+font-size:18px;
+color:#333300;
+font-family: "Times New Roman", Times, serif;
+ margin-bottom:100px;
+
+}
+.r1{
+	 background-color:red;
+	margin-top:20px;
+	text-align:center;
+	
+}
+ 
+.f1.container{
+	margin-bottom:150px;
+	background-color:red;
+}
+
+.progress-container {
+  width: 100%;
+  height: 8px;
+  background: black;
+}
+
+.progress-bar {
+  height: 8px;
+  background: red;
+  width: 0%;
+}
+
+
+
+.s1{
+	margin-top:85px;}	
+.btn:hover{
+	background-color:black;}
+	
+.clear-float{
+clear:both;
+}
+ .footer {
+	width:100%;
+  background-color:#b30000;
+  color:black;
+  text-align: center;
+  margin-top:50px;
+}
+
+.m1.card-body{
+	font-weight:bold;
+	color: white;
+font-family: "Times New Roman", Times, serif;}
